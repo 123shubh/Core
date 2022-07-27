@@ -1,0 +1,18 @@
+{
+  "dateFfReservationCreated": "2022-05-16",
+  "endDateOfReservation": "2022-05-25",
+  "firstNameOfReservor": "string",
+  "hotelId": "string",
+  "hotelName": "string",
+  "lastNameOfReservor": "string",
+  "numberOfGuest": 0,
+  "numberOfRooms": 0,
+  "ratePlanId": "string",
+  "ratePlanName": "string",
+  "resStatus": "Commit",
+  "reservationId": 101,
+  "roomId": "string",
+  "roomName": "string",
+  "startDateOfReservation": "2022-05-20",
+  "totalAmount": 0
+}
