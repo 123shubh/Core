@@ -35,7 +35,7 @@ public class CoreResController {
 	@Autowired
 	private IReservationService iReservationService;
 
-	final static Logger logger = LoggerFactory.getLogger(CoreResController.class);
+	static final Logger logger = LoggerFactory.getLogger(CoreResController.class);
 
 	/**
 	 * used to post data to DB
