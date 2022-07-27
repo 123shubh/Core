@@ -16,7 +16,7 @@ import com.org.repository.ReservationRepository;
 @Service
 public class ReservationServiceImpl implements IReservationService {
 
-    final static Logger logger = LoggerFactory.getLogger(ReservationServiceImpl.class);
+    static final Logger logger = LoggerFactory.getLogger(ReservationServiceImpl.class);
 
     @Autowired
     private ReservationRepository reservationRepository;
